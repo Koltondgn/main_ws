@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="robot">
+
+
+
+    <xacro:property name="wheel_friction" value="1"/>
+
+    <gazebo reference="front_left_wheel">
+        <mu1>${wheel_friction}</mu1>
+        <mu2>${wheel_friction}</mu2>
+        <material>Gazebo/DarkGrey</material>
+    </gazebo>
+    <gazebo reference="front_right_wheel">
+        <mu1>${wheel_friction}</mu1>
+        <mu2>${wheel_friction}</mu2>
+        <material>Gazebo/DarkGrey</material>
+    </gazebo>
+    <gazebo reference="back_left_wheel">
+        <mu1>${wheel_friction}</mu1>
+        <mu2>${wheel_friction}</mu2>
+        <material>Gazebo/DarkGrey</material>
+    </gazebo>
+    <gazebo reference="back_right_wheel">
+        <mu1>${wheel_friction}</mu1>
+        <mu2>${wheel_friction}</mu2>
+        <material>Gazebo/DarkGrey</material>
+    </gazebo>
+
+    <gazebo reference="odom">
+        <dampingFactor>0.00007</dampingFactor>
+    </gazebo>
+
+    <gazebo>
+        <plugin name="car_gazebo_plugin" filename="libcar_gazebo_plugin.so">
+        </plugin>
+    </gazebo>
+
+</robot>
