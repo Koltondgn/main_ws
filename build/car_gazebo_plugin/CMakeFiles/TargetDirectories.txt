@@ -1,0 +1,10 @@
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/uninstall.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/car_gazebo_plugin_uninstall.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/car_gazebo_plugin.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/test.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/edit_cache.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/rebuild_cache.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/list_install_components.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/install.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/install/local.dir
+/home/user/git_repo/main_ws/build/car_gazebo_plugin/CMakeFiles/install/strip.dir

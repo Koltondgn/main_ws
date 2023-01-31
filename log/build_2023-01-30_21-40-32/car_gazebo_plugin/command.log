@@ -1,0 +1,6 @@
+Invoking command in '/home/user/git_repo/main_ws/build/car_gazebo_plugin': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/git_repo/main_ws/src/car_gazebo_plugin -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/git_repo/main_ws/install/car_gazebo_plugin
+Invoked command in '/home/user/git_repo/main_ws/build/car_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/git_repo/main_ws/src/car_gazebo_plugin -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/git_repo/main_ws/install/car_gazebo_plugin
+Invoking command in '/home/user/git_repo/main_ws/build/car_gazebo_plugin': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/git_repo/main_ws/build/car_gazebo_plugin -- -j2 -l2
+Invoked command in '/home/user/git_repo/main_ws/build/car_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/git_repo/main_ws/build/car_gazebo_plugin -- -j2 -l2
+Invoking command in '/home/user/git_repo/main_ws/build/car_gazebo_plugin': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/git_repo/main_ws/build/car_gazebo_plugin
+Invoked command in '/home/user/git_repo/main_ws/build/car_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/git_repo/main_ws/build/car_gazebo_plugin
